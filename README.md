@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dornaraj kharal</h1>
 <h3 align="center">web software developer from Finland</h3>
 
-- 🌱 I’m currently learning **javascript and The library for w**
+- 🌱 I’m currently learning **javascript,node.js and react **
 
 - 📫 How to reach me **devraj.kharal05@gmail.com**
 

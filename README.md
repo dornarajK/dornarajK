@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dornaraj kharal</h1>
 <h3 align="center">Full-Stack Web Developer from Finland</h3>
 
-- 🌱 I’m currently learning **javascript,node.js and React**
+- 🌱 I’m currently learning **React and python**
 
 - 👨‍💻 All of my projects are available at [https://dornarajk.github.io/Dornaraj/](https://dornarajk.github.io/Dornaraj/)
 

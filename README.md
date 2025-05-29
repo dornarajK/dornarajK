@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and python**
 
-- 👨‍💻 All of my projects are available at [https://dornaraj](https://dornarajkharal.vercel.app/)
+- 👨‍💻 All of my projects are available at [Dornaraj Kharal](https://dornarajkharal.vercel.app/)
 
 - 📫 How to reach me **devraj.kharal05@gmail.com**
 
